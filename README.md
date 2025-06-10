@@ -6,3 +6,8 @@ main.py (presentation)
 controller.py (business logic implementation)
 
 Also added comment lines where needed.
+
+# Run
+Clone repo
+cd AgriChain_assignment
+python main.py
