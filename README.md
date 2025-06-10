@@ -5,4 +5,4 @@ models.py (data)
 main.py (presentation)
 controller.py (business logic implementation)
 
-Added comment lines where needed.
+Also added comment lines where needed.
